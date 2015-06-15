@@ -1,4 +1,4 @@
 # deckofcards
 Java simulation of a deck of cards with shuffle, search, sort, flip, and deal capabilities. 
 
-Circa 2014
+Circa 2013
